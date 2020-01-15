@@ -64,4 +64,4 @@ more information.
 [build]: https://travis-ci.org/gustavopaixao/BoC Valet
 [coverage]: https://coveralls.io/r/gustavopaixao/BoC Valet?branch=master
 [downloads]: https://packagist.org/packages/gustavopaixao/boc-valet
-# boc-valet
+
